@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "trade_date": "2026-11-16",
+  "generated_at": "2026-11-16T23:18:30+08:00",
+  "source": "auto",
+  "market": {
+    "up_ratio": 1.9,
+    "money_effect": "亏钱",
+    "stage": "分歧（候选尚存）",
+    "candidates": 2,
+    "soil_ok": false
+  },
+  "top5_names": [
+    "猪肉",
+    "中特估",
+    "免税概念",
+    "短剧游戏",
+    "知识付费"
+  ],
+  "top5": [
+    {
+      "name": "猪肉",
+      "score": 94.2,
+      "pct": 0.63,
+      "fund_wan": 38492.1,
+      "limit_up": 2,
+      "up_ratio": 62.5,
+      "stage": "酝酿/弱势"
+    },
+    {
+      "name": "中特估",
+      "score": null,
+      "pct": 0.69,
+      "fund_wan": 109413.01,
+      "limit_up": 0,
+      "up_ratio": 71.875,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "免税概念",
+      "score": null,
+      "pct": -0.36,
+      "fund_wan": 175954.91,
+      "limit_up": 1,
+      "up_ratio": 56.5217,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "短剧游戏",
+      "score": null,
+      "pct": -1.19,
+      "fund_wan": -83708.73,
+      "limit_up": 4,
+      "up_ratio": 30.6122,
+      "stage": "酝酿/弱势"
+    },
+    {
+      "name": "知识付费",
+      "score": null,
+      "pct": 0.22,
+      "fund_wan": -11163.23,
+      "limit_up": 1,
+      "up_ratio": 50,
+      "stage": "酝酿/弱势"
+    }
+  ],
+  "disclaimer": "程序自动生成，仅供参考，不构成投资建议"
+}
