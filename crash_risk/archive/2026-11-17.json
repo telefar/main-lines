@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "trade_date": "2026-11-17",
-  "generated_at": "2026-11-17T08:23:46+08:00",
+  "generated_at": "2026-11-17T08:24:49+08:00",
   "source": "local-six-dim",
   "score": 27,
   "band_label": "恐惧 Fear",
@@ -10,6 +10,12 @@
   "total": -6,
   "neg_count": 4,
   "resonance": true,
+  "scenario": "下跌中继场景",
+  "conditions_mid": {
+    "急跌释放中": true,
+    "强平进行中": true,
+    "流动性转差": true
+  },
   "scores": {
     "估值": 0,
     "杠杆": 0,
