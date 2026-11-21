@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "trade_date": "2026-11-20",
+  "generated_at": "2026-11-21T16:35:16+08:00",
+  "source": "auto",
+  "market": {
+    "up_ratio": 0.4,
+    "money_effect": "亏钱",
+    "stage": "退潮",
+    "candidates": 0,
+    "soil_ok": false
+  },
+  "top5_names": [
+    "猪肉",
+    "中特估",
+    "含H股",
+    "通达信88",
+    "一带一路"
+  ],
+  "top5": [
+    {
+      "name": "猪肉",
+      "score": 98.4,
+      "pct": -0.23,
+      "fund_wan": 38492.1,
+      "limit_up": 1,
+      "up_ratio": 53.125,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "中特估",
+      "score": null,
+      "pct": -0.54,
+      "fund_wan": 109413.01,
+      "limit_up": 0,
+      "up_ratio": 44.7917,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "含H股",
+      "score": null,
+      "pct": 0.44,
+      "fund_wan": 237098.13,
+      "limit_up": 0,
+      "up_ratio": 20.9524,
+      "stage": "发酵"
+    },
+    {
+      "name": "通达信88",
+      "score": null,
+      "pct": -0.49,
+      "fund_wan": 216138.51,
+      "limit_up": 0,
+      "up_ratio": 25.5814,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "一带一路",
+      "score": null,
+      "pct": -0.91,
+      "fund_wan": 126977.01,
+      "limit_up": 2,
+      "up_ratio": 6.6496,
+      "stage": "尾声（趋势走弱）"
+    }
+  ],
+  "disclaimer": "程序自动生成，仅供参考，不构成投资建议"
+}
