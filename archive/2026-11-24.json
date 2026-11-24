@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "trade_date": "2026-11-24",
+  "generated_at": "2026-11-24T20:12:39+08:00",
+  "source": "auto",
+  "market": {
+    "up_ratio": 45.7,
+    "money_effect": "赚钱",
+    "stage": "分歧（候选尚存）",
+    "candidates": 9,
+    "soil_ok": true
+  },
+  "top5_names": [
+    "无线耳机",
+    "减速器",
+    "混合现实",
+    "含H股",
+    "猪肉"
+  ],
+  "top5": [
+    {
+      "name": "无线耳机",
+      "score": 84.7,
+      "pct": 2.06,
+      "fund_wan": 137793.31,
+      "limit_up": 4,
+      "up_ratio": 77.1739,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "减速器",
+      "score": null,
+      "pct": 1.75,
+      "fund_wan": 196452.57,
+      "limit_up": 3,
+      "up_ratio": 69.7842,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "混合现实",
+      "score": null,
+      "pct": 1.69,
+      "fund_wan": 152940.81,
+      "limit_up": 3,
+      "up_ratio": 77.193,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "含H股",
+      "score": null,
+      "pct": 0.14,
+      "fund_wan": 237098.13,
+      "limit_up": 0,
+      "up_ratio": 35.7843,
+      "stage": "尾声（趋势走弱）"
+    },
+    {
+      "name": "猪肉",
+      "score": null,
+      "pct": -0.04,
+      "fund_wan": 38492.1,
+      "limit_up": 1,
+      "up_ratio": 33.3333,
+      "stage": "酝酿/弱势"
+    }
+  ],
+  "disclaimer": "程序自动生成，仅供参考，不构成投资建议"
+}
