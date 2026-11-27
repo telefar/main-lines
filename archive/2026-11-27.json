@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "trade_date": "2026-11-27",
+  "generated_at": "2026-11-27T22:58:20+08:00",
+  "source": "auto",
+  "market": {
+    "up_ratio": 99.6,
+    "money_effect": "赚钱",
+    "stage": "主线明确",
+    "candidates": 12,
+    "soil_ok": true
+  },
+  "top5_names": [
+    "华为海思",
+    "存储芯片",
+    "CPO概念",
+    "通达信88",
+    "智谱AI"
+  ],
+  "top5": [
+    {
+      "name": "华为海思",
+      "score": 68.5,
+      "pct": 11.39,
+      "fund_wan": 846723.84,
+      "limit_up": 18,
+      "up_ratio": 100,
+      "stage": "发酵"
+    },
+    {
+      "name": "存储芯片",
+      "score": null,
+      "pct": 13.62,
+      "fund_wan": 2645632.72,
+      "limit_up": 71,
+      "up_ratio": 100,
+      "stage": "发酵"
+    },
+    {
+      "name": "CPO概念",
+      "score": null,
+      "pct": 12.42,
+      "fund_wan": 4066043.31,
+      "limit_up": 67,
+      "up_ratio": 99.5595,
+      "stage": "发酵"
+    },
+    {
+      "name": "通达信88",
+      "score": null,
+      "pct": 3.94,
+      "fund_wan": 2036118.86,
+      "limit_up": 7,
+      "up_ratio": 78.4091,
+      "stage": "发酵"
+    },
+    {
+      "name": "智谱AI",
+      "score": null,
+      "pct": 10.83,
+      "fund_wan": 320406.82,
+      "limit_up": 16,
+      "up_ratio": 100,
+      "stage": "发酵"
+    }
+  ],
+  "disclaimer": "程序自动生成，仅供参考，不构成投资建议"
+}
