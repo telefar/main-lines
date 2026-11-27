@@ -1,67 +1,67 @@
 {
   "schema_version": 1,
-  "trade_date": "2026-11-26",
-  "generated_at": "2026-11-26T20:41:39+08:00",
+  "trade_date": "2026-11-27",
+  "generated_at": "2026-11-27T22:58:20+08:00",
   "source": "auto",
   "market": {
-    "up_ratio": 23,
-    "money_effect": "亏钱",
-    "stage": "分歧（候选尚存）",
-    "candidates": 6,
-    "soil_ok": false
+    "up_ratio": 99.6,
+    "money_effect": "赚钱",
+    "stage": "主线明确",
+    "candidates": 12,
+    "soil_ok": true
   },
   "top5_names": [
-    "水产品",
-    "化肥概念",
-    "种业",
-    "含H股",
-    "通达信88"
+    "华为海思",
+    "存储芯片",
+    "CPO概念",
+    "通达信88",
+    "智谱AI"
   ],
   "top5": [
     {
-      "name": "水产品",
-      "score": 76.9,
-      "pct": 3.76,
-      "fund_wan": -2973.04,
-      "limit_up": 3,
-      "up_ratio": 75,
+      "name": "华为海思",
+      "score": 68.5,
+      "pct": 11.39,
+      "fund_wan": 846723.84,
+      "limit_up": 18,
+      "up_ratio": 100,
       "stage": "发酵"
     },
     {
-      "name": "化肥概念",
+      "name": "存储芯片",
       "score": null,
-      "pct": 1.51,
-      "fund_wan": 95190.18,
-      "limit_up": 4,
-      "up_ratio": 72.1311,
+      "pct": 13.62,
+      "fund_wan": 2645632.72,
+      "limit_up": 71,
+      "up_ratio": 100,
       "stage": "发酵"
     },
     {
-      "name": "种业",
+      "name": "CPO概念",
       "score": null,
-      "pct": 1.7,
-      "fund_wan": -1360.31,
-      "limit_up": 0,
-      "up_ratio": 83.3333,
+      "pct": 12.42,
+      "fund_wan": 4066043.31,
+      "limit_up": 67,
+      "up_ratio": 99.5595,
       "stage": "发酵"
-    },
-    {
-      "name": "含H股",
-      "score": null,
-      "pct": 0.49,
-      "fund_wan": 237098.13,
-      "limit_up": 0,
-      "up_ratio": 44.2211,
-      "stage": "尾声（趋势走弱）"
     },
     {
       "name": "通达信88",
       "score": null,
-      "pct": 0.28,
-      "fund_wan": 216138.51,
-      "limit_up": 0,
-      "up_ratio": 43.1818,
-      "stage": "尾声（趋势走弱）"
+      "pct": 3.94,
+      "fund_wan": 2036118.86,
+      "limit_up": 7,
+      "up_ratio": 78.4091,
+      "stage": "发酵"
+    },
+    {
+      "name": "智谱AI",
+      "score": null,
+      "pct": 10.83,
+      "fund_wan": 320406.82,
+      "limit_up": 16,
+      "up_ratio": 100,
+      "stage": "发酵"
     }
   ],
   "disclaimer": "程序自动生成，仅供参考，不构成投资建议"
